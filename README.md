@@ -73,11 +73,14 @@ from pprint        import pprint
 
 profile = Profile("FrancisTaylor.py").on_obj()
 
-pprint(profile.name)
-pprint(profile.username)
-pprint(profile.followers)
-pprint(profile.following)
-pprint(profile.picture)
+print("Name:", profile.name)
+print("Username:", profile.username)
+print("Website:", profile.website)
+print("Bio:", profile.bio)
+print("Posts:", profile.posts)
+print("Followers:", profile.followers)
+print("Following:", profile.following)
+print("Picture:", profile.picture)
 ```
 ```
 >>>
