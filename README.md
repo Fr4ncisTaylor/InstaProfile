@@ -1,9 +1,7 @@
-# InstaProfile
-Get instagram profile information.
+# InstaProfile (Get instagram profile information.)
 
-
-## Install
 * * *
+## Install
 
 * Clone the repository ```git clone https://github.com/francis-taylor/InstaProfile``` or download.
 
