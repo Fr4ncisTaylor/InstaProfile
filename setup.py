@@ -4,7 +4,7 @@ from setuptools import setup
 # This call to setup() does all the work
 setup(
     name="instaprofile",
-    version="1.0.4",
+    version="1.0.5",
     description="Get the Instagram users profile informations.",
     long_description='README.md',
     long_description_content_type="text/markdown",
