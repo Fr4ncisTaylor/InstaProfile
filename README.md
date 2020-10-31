@@ -1,13 +1,20 @@
-# InstaProfile (Get instagram profile information.)
+<h1 align="center">InstaProfile</h1>
+<h5 align="center">Version: 1.0.5</h4>
 
 * * *
 ## Install
 
-* Clone the repository ```git clone https://github.com/francis-taylor/InstaProfile``` or download.
+```pip install instaprofile```
 
-* enter the folder: ```cd InstaProfile```
+* * *
+## Check the version
 
-* Install the dependencies: ```pip install -r requirements.txt```
+```python
+import insta_profile
+
+print("Author:", insta_profile.__author__)
+print("Version:", insta_profile.__versio__)
+```
 
 * * *
 ## Basic usage
